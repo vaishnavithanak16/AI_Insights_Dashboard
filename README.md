@@ -21,6 +21,7 @@ Deployment: Streamlit Cloud
 Version Control: GitHub
 
 Project Structure
+
 AI_Insights_Dashboard/
 │
 ├── app.py                  # Main Streamlit application file
@@ -73,7 +74,7 @@ Improved prompt engineering for domain-specific datasets.
 Author
 
 Vaishnavi Thanakanti
-Data Analyst | Machine Learning Enthusiast
-University of Dayton, OH
+Data Analyst | Machine Learning Enthusiast|University of Dayton, OH
+
 LinkedIn:- www.linkedin.com/in/vaishnavi-thanakanti
 Email- vaishnavithanak@gmail.com
